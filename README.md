@@ -13,12 +13,12 @@
 
 <div style="width:100%">
     <div style="width:50%; display:inline-block">
-        <div style="alignItems: flex-start flexWrap: 'wrap'">
-          <img style="width:200px" alt="Home" src="./assets/images/1.jpg">    
-          <img  style="width:200px"alt="Portfolio" src="./assets/images/2.jpg">    
-          <img  style="width:200px" alt="Trade" src="./assets/images/3.jpg">    
-          <img  style="width:200px" alt="Market" src="./assets/images/4.jpg">    
-          <img style="width:200px" alt="Profile" src="./assets/images/5.jpg">    
+        <div style="flexWrap: 'wrap'">
+          <img width="193" height="330" alt="Home" src="./assets/images/1.jpg">    
+          <img  width="193" height="330" alt="Portfolio" src="./assets/images/2.jpg">    
+          <img  width="193" height="330" alt="Trade" src="./assets/images/3.jpg">    
+          <img  width="193" height="330" alt="Market" src="./assets/images/4.jpg">    
+          <img  width="193" height="330" alt="Profile" src="./assets/images/5.jpg">    
         </div>    
     </div>    
 </div>
