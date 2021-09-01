@@ -14,11 +14,11 @@
 <div style="width:100%">
     <div style="width:50%; display:inline-block">
         <div style="alignItems: flex-start flexWrap: 'wrap'">
-          <img  alt="Home" src="./assets/images/1.jpg">    
-          <img  alt="Portfolio" src="./assets/images/2.jpg">    
-          <img  alt="Trade" src="./assets/images/3.jpg">    
-          <img  alt="Market" src="./assets/images/4.jpg">    
-          <img alt="Profile" src="./assets/images/5.jpg">    
+          <img style="width:200px" alt="Home" src="./assets/images/1.jpg">    
+          <img  style="width:200px"alt="Portfolio" src="./assets/images/2.jpg">    
+          <img  style="width:200px" alt="Trade" src="./assets/images/3.jpg">    
+          <img  style="width:200px" alt="Market" src="./assets/images/4.jpg">    
+          <img style="width:200px" alt="Profile" src="./assets/images/5.jpg">    
         </div>    
     </div>    
 </div>
