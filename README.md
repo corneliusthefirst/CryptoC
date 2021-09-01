@@ -41,8 +41,6 @@ CryptoC is a crypto currency application with design features and animations of 
 
 # Setting up the sample app
 
-- Obtain your `APP_ID`, `AUTH_KEY` and `REGION` from [CometChat-Pro Dashboard](https://app.cometchat.com/)
-
 - Open the project.
 
 - Run `cd CryptoC`.
